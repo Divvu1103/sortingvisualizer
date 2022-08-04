@@ -5,7 +5,7 @@ function App() {
   return (
     <main className="grid grid-rows-[repeat(10,_1fr)] bg-gray-100 w-screen h-full">
       <Nav />
-      <Main />
+      <Main /> 
     </main>
   );
 }
